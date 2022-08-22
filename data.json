@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 11112,
+      "name": "Grandhys Setyo",
+      "email": "grandhys.setyo@rekadia.co.id",
+      "phonenumber": "081220012281"
+    },
+    {
+      "id": 11113,
+      "name": "Grandhys Setyo Utomo",
+      "email": "grandhys.setyo2@rekadia.co.id",
+      "phonenumber": "081220012282"
+    }
+  ]
+}
