@@ -1,0 +1,4 @@
+1. Buka Terminal (Pastikan sudah masuk ke folder project)
+2. Ketik = npm install
+3. Jalankan aplikasi = npm run start
+4. Jalankan applikasi json-server untuk fake api = json-server data.json --watch --port 3001
